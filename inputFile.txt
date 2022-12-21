@@ -1,0 +1,8 @@
+ID: 3, Size: 38, Colour: blue, Price: 750, Quantity: 32, PhotographyUrl: www.shutterstock.com/image-photo/high-fashion-portrait-young-elegant-woman-1509302804
+ID: 4, Size: 34, Colour: green, Price: 840, Quantity: 49, PhotographyUrl: www.shutterstock.com/image-photo/attractive-girl-long-hair-green-coat-1048585481
+ID: 5, Size: 36, Colour: red, Price: 1000, Quantity: 25, PhotographyUrl: www.shutterstock.com/image-photo/fashionable-woman-bright-red-coat-black-538439314
+ID: 6, Size: 38, Colour: cream, Price: 955, Quantity: 10, PhotographyUrl: www.shutterstock.com/image-photo/beautiful-young-stylish-girl-trench-coat-1489355732
+ID: 7, Size: 40, Colour: blue, Price: 875, Quantity: 42, PhotographyUrl: www.shutterstock.com/image-photo/young-beautiful-stylish-woman-walking-blue-1345037489
+ID: 8, Size: 44, Colour: black, Price: 1540, Quantity: 32, PhotographyUrl: www.shutterstock.com/image-photo/beautiful-fashion-young-woman-black-coat-760604173
+ID: 9, Size: 36, Colour: cream, Price: 930, Quantity: 35, PhotographyUrl: www.shutterstock.com/image-photo/red-hair-woman-trench-standing-street-392598295
+ID: 10, Size: 34, Colour: black, Price: 895, Quantity: 59, PhotographyUrl: www.shutterstock.com/image-photo/full-length-portrait-pretty-brunette-girl-1604711371
